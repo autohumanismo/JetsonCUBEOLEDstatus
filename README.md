@@ -214,8 +214,6 @@ sudo python3 rgb_raw_test.py          # asks what you saw after each test
 | File | Purpose |
 |---|---|
 | `oled_stats.py` | The display + light-bar service |
-| `rgb_raw_test.py` | Interactive I2C tester for the light bar (no library needed) |
-| `oled-stats.service` | systemd unit (see above) |
 
 ## References
 
