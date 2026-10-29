@@ -6,7 +6,7 @@ It does two things every 5 seconds:
 1. Draws memory, swap, Docker and **Load** on the case's 128×32 OLED.
 2. Colours the whole RGB light bar (blue / green / yellow / red) according to the same Load value, so you can tell at a glance, from across the room, whether the machine is busy.
 
-Developed on Ubuntu 24.04, kernel `6.8.12-1021-tegra`. The RGB register writes were verified on the board with `rgb_raw_test.py`.
+Developed on Ubuntu 24.04, kernel `6.8.12-1021-tegra`. 
 
 ---
 
