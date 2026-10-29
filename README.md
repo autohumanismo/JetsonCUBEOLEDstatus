@@ -204,12 +204,6 @@ Constants at the top of `oled_stats.py`:
 | Load always low while the GPU is busy | Run `tegrastats` by hand; the script needs `GR3D_FREQ` in its output and to run as root |
 | Dock shows `?` | `docker ps` fails for root — is the Docker service running? |
 
-To test the light bar on its own, stop the service and use the interactive tester (it never touches the fan):
-
-```bash
-sudo systemctl stop oled-stats.service
-sudo python3 rgb_raw_test.py          # asks what you saw after each test
-```
 
 ---
 
