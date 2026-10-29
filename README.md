@@ -12,6 +12,9 @@ Developed on Ubuntu 24.04, kernel `6.8.12-1021-tegra`.
 
 ## What the display shows
 
+![Uploading image.png…]()
+
+
 ```
 +---------+---------+---------+---------+
 |  Mem    |  Swap   |  Dock   |  Load   |   labels
