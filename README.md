@@ -12,7 +12,8 @@ Developed on Ubuntu 24.04, kernel `6.8.12-1021-tegra`.
 
 ## What the display shows
 
-![Uploading image.png…]()
+<img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/f4bf1043-3216-4bcd-8c82-a81b39d77a36" />
+
 
 
 ```
